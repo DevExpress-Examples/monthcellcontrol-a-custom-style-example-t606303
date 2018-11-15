@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CellControlExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CellControlExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CellControlExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CellControlExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # MonthCellControl - a custom style example
 
 
